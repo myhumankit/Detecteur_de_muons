@@ -1,0 +1,4 @@
+le 19-02-2024
+La version "Prod" est celle qui à été envoyée pour la réalisation des pcb.
+La version "Fichiers_Eclates" est la version qui à servi à la réalisation des deux boitiers.
+Les modifications concernes principalement le schéma et la carte ESP32.

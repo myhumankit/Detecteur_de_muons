@@ -1,0 +1,23 @@
+# Licence
+
+Ce projet est sous licence Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+
+## Vous êtes libre de :
+
+- Partager : copier, distribuer et communiquer le matériel par tous moyens et sous tous formats.
+- Adapter : remixer, transformer et créer à partir du matériel.
+
+## Sous les conditions suivantes :
+
+- Attribution : Vous devez attribuer l’œuvre de la manière indiquée par l’auteur de l’œuvre ou le titulaire des droits (mais pas d’une manière qui suggérerait qu’ils vous soutiennent ou approuvent votre utilisation de l’œuvre).
+- Pas d’Utilisation Commerciale : Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant.
+- Partage dans les Mêmes Conditions : Si vous modifiez, transformez ou créez à partir du matériel, vous devez distribuer votre contribution sous la même licence que l’original.
+
+## Pas de restrictions supplémentaires :
+
+Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.
+
+## Pour plus d'informations, consultez le texte complet de la licence à l'adresse suivante :
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+©My Human Kit, 2024

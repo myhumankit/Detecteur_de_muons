@@ -1,0 +1,74 @@
+Circuit: * I:\COSMIC-SAIL-2024\MUONS_DOC\SIMILATION_ELECTRONIQUE\OK\Version_Spencer\Muons01.asc
+
+Limiting rise time of source v1 to 1e-005
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.166667
+Gmin = 1.74515e-007
+vernier = 0.222222
+Gmin = 1.07159e-007
+vernier = 0.296296
+vernier = 0.148148
+vernier = 0.074074
+Gmin = 7.62055e-008
+vernier = 0.0987653
+vernier = 0.131687
+vernier = 0.0658435
+Gmin = 6.34586e-008
+vernier = 0.0329218
+vernier = 0.0438957
+Gmin = 5.83084e-008
+vernier = 0.0585276
+vernier = 0.0780367
+Gmin = 5.03058e-008
+vernier = 0.104049
+Gmin = 3.99152e-008
+vernier = 0.138732
+vernier = 0.184976
+Gmin = 2.71496e-008
+vernier = 0.246634
+vernier = 0.328846
+Gmin = 1.47898e-008
+vernier = 0.438461
+Gmin = 5.77671e-009
+vernier = 0.584614
+vernier = 0.779486
+Gmin = 1.25008e-009
+vernier = 1
+Gmin = 1.46898e-010
+Gmin = 1.57731e-011
+Gmin = 1.69362e-012
+Gmin = 1.81851e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Mon Feb 19 13:15:27 2024
+Total elapsed time: 1.176 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11353
+traniter = 9790
+tranpoints = 3797
+accept = 3069
+rejected = 728
+matrix size = 30
+fillins = 45
+solver = Normal
+Matrix Compiler1: 4.63 KB object code size  1.0/0.5/[0.3]
+Matrix Compiler2: 3.63 KB object code size  2.1/1.1/[0.3]
+

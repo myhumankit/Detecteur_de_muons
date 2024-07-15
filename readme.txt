@@ -13,3 +13,5 @@ and its code:
 - Improved data display on screen
 - Optimization of the detection algo 
 - Creation of a python script for data analysis (not yet finished)
+
+my human kit, in carrying out this project, has supported the Astrolabe Expéditions association as part of the "cosmic sail" program.
